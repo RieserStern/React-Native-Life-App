@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "461367245703",
+    "firebase_url": "https://life-app-2357f.firebaseio.com",
+    "project_id": "life-app-2357f",
+    "storage_bucket": "life-app-2357f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461367245703:android:64c533fa129d20bf447122",
+        "android_client_info": {
+          "package_name": "com.zed.life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461367245703-asnai1l8glrqf4gp07u30roq5cnml4hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zed.life",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "461367245703-oesiuihnlkjm3ils60nu840q8jd9qu48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsRf65eIzl6cpeVjsGjEDVzIPDA2qBJlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461367245703-oesiuihnlkjm3ils60nu840q8jd9qu48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461367245703-23sec93c780adji0e911iojd7epiijh7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "life-zed.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
